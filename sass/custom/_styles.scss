@@ -5,6 +5,10 @@ html {
 	background: #333 url('/images/noise.png') top left
 }
 
+body > header {
+	padding-left: 27.5px;
+}
+
 body > header h1 {
 	padding-left: 0;
 }
